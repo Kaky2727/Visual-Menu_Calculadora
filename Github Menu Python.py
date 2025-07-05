@@ -1,6 +1,6 @@
 
 def saludar(nombre): 
-    print("Hola", nombre)
+    print("Holax", nombre)
     print("aqui hay una calculadora simple creada con python")
 
 
