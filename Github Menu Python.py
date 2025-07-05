@@ -1,7 +1,7 @@
 
 def saludar(nombre): 
     print("Holax", nombre)
-    print("aqui hay una calculadora simple creada con python")
+    print("aqui hay una calculadora creada con python")
 
 
 def sumar(): 
